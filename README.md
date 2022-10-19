@@ -26,8 +26,7 @@ Vejamos um exemplo para demonstrar o uso de tipos.
 
 1. Abra o [Playground](https://www.typescriptlang.org/play) do TypeScript. Você aprenderá mais sobre o Playground posteriormente neste módulo.
 2. Copie e cole o seguinte exemplo de código JavaScript no painel do TypeScript (à esquerda):
-    
-    
+
     ```tsx
     function addNumbers(x, y) {
       return x + y;
