@@ -6,3 +6,5 @@ interface Loan {
 interface ConventionalLoan extends Loan {
     months: number      //* Total number of months
 }
+
+export { ConventionalLoan, Loan}
